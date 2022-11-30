@@ -1,4 +1,4 @@
-baseURL = "https://nomad003.github.io/blog-hugo/"
+baseURL = "https://nomad003.github.io/blog/"
 languageCode = "en-us"
 title = "Nomad's Blog"
 theme = "m10c"
