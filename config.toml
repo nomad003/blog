@@ -36,6 +36,12 @@ paginate = 8
     name = "Twitter"
     url = "https://twitter.com/nomad003"
 
+  [[params.social]]
+    icon = "email"
+    name = "Email"
+    url = "chenyao223001@gmail.com"
+
+
   # Default theme
   #[params.style]
   #  darkestColor = "#242930"
